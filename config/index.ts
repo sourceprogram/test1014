@@ -13,7 +13,7 @@ export const APP_INFO: AppInfo = {
 export const isShowPrompt = false
 export const promptTemplate = 'I want you to act as a javascript console.'
 
-export const API_PREFIX = '/api'
+export const API_PREFIX = 'http://172.16.45.8/v1'
 
 export const LOCALE_COOKIE_NAME = 'locale'
 
